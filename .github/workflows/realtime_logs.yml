@@ -2,7 +2,7 @@ name: Real-Time Azure Log Scheduler
 
 on:
   schedule:
-    - cron: '*/1 * * * *'   # Jalankan setiap 1 menit
+    - cron: '* * * * *'   # Jalankan setiap 1 menit
 
 jobs:
   real-time-logger:
