@@ -1,12 +1,8 @@
 name: Real-Time Azure Log Scheduler
 
 on:
-  workflow_dispatch:        # Memungkinkan pemicu manual dari GitHub Actions UI
-  push:                     # Trigger saat ada push ke branch 'main'
-    branches:
-      - main
   schedule:
-    - cron: '* * * * *'   # Jalankan setiap 1 menit
+    - cron: '*/1 * * * *'   # Jalankan setiap 1 menit
 
 jobs:
   real-time-logger:
