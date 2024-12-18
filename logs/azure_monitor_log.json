@@ -103678,3 +103678,543 @@
     "Latency_ms": 273.958
   }
 }
+{
+  "timestamp": "2024-12-19T03:54:28 WIB",
+  "metrics": {
+    "CPU_Percent": 69.3997,
+    "Memory_Bytes": 1000004045,
+    "Request_Count": 1189,
+    "Latency_ms": 364.469
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:29 WIB",
+  "metrics": {
+    "CPU_Percent": 21.6706,
+    "Memory_Bytes": 1000017648,
+    "Request_Count": 1803,
+    "Latency_ms": 111.786
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:30 WIB",
+  "metrics": {
+    "CPU_Percent": 59.989,
+    "Memory_Bytes": 1000004116,
+    "Request_Count": 897,
+    "Latency_ms": 314.648
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:31 WIB",
+  "metrics": {
+    "CPU_Percent": 25.9995,
+    "Memory_Bytes": 1000016523,
+    "Request_Count": 2186,
+    "Latency_ms": 134.703
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:32 WIB",
+  "metrics": {
+    "CPU_Percent": 77.4361,
+    "Memory_Bytes": 1000019651,
+    "Request_Count": 1608,
+    "Latency_ms": 407.015
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:33 WIB",
+  "metrics": {
+    "CPU_Percent": 14.724,
+    "Memory_Bytes": 1000021287,
+    "Request_Count": 2348,
+    "Latency_ms": 75.0093
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:34 WIB",
+  "metrics": {
+    "CPU_Percent": 27.2958,
+    "Memory_Bytes": 1000019299,
+    "Request_Count": 852,
+    "Latency_ms": 141.566
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:35 WIB",
+  "metrics": {
+    "CPU_Percent": 64.6724,
+    "Memory_Bytes": 1000029275,
+    "Request_Count": 789,
+    "Latency_ms": 339.442
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:36 WIB",
+  "metrics": {
+    "CPU_Percent": 91.2694,
+    "Memory_Bytes": 1000024920,
+    "Request_Count": 2474,
+    "Latency_ms": 480.25
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:37 WIB",
+  "metrics": {
+    "CPU_Percent": 58.81,
+    "Memory_Bytes": 1000007971,
+    "Request_Count": 2280,
+    "Latency_ms": 308.406
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:38 WIB",
+  "metrics": {
+    "CPU_Percent": 51.2424,
+    "Memory_Bytes": 1000010082,
+    "Request_Count": 1699,
+    "Latency_ms": 268.342
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:39 WIB",
+  "metrics": {
+    "CPU_Percent": 71.4346,
+    "Memory_Bytes": 1000030967,
+    "Request_Count": 907,
+    "Latency_ms": 375.242
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:40 WIB",
+  "metrics": {
+    "CPU_Percent": 51.7592,
+    "Memory_Bytes": 1000000359,
+    "Request_Count": 2099,
+    "Latency_ms": 271.078
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:41 WIB",
+  "metrics": {
+    "CPU_Percent": 37.2565,
+    "Memory_Bytes": 1000019819,
+    "Request_Count": 886,
+    "Latency_ms": 194.299
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:42 WIB",
+  "metrics": {
+    "CPU_Percent": 90.268,
+    "Memory_Bytes": 1000015326,
+    "Request_Count": 1395,
+    "Latency_ms": 474.948
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:43 WIB",
+  "metrics": {
+    "CPU_Percent": 35.4553,
+    "Memory_Bytes": 1000013118,
+    "Request_Count": 1685,
+    "Latency_ms": 184.764
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:44 WIB",
+  "metrics": {
+    "CPU_Percent": 11.7012,
+    "Memory_Bytes": 1000012608,
+    "Request_Count": 1149,
+    "Latency_ms": 59.0062
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:46 WIB",
+  "metrics": {
+    "CPU_Percent": 15.986,
+    "Memory_Bytes": 1000002446,
+    "Request_Count": 1272,
+    "Latency_ms": 81.6908
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:47 WIB",
+  "metrics": {
+    "CPU_Percent": 19.6839,
+    "Memory_Bytes": 1000014857,
+    "Request_Count": 1046,
+    "Latency_ms": 101.268
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:48 WIB",
+  "metrics": {
+    "CPU_Percent": 70.6667,
+    "Memory_Bytes": 1000030872,
+    "Request_Count": 1397,
+    "Latency_ms": 371.177
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:49 WIB",
+  "metrics": {
+    "CPU_Percent": 45.4286,
+    "Memory_Bytes": 1000023364,
+    "Request_Count": 1856,
+    "Latency_ms": 237.563
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:50 WIB",
+  "metrics": {
+    "CPU_Percent": 24.4473,
+    "Memory_Bytes": 1000014244,
+    "Request_Count": 823,
+    "Latency_ms": 126.486
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:51 WIB",
+  "metrics": {
+    "CPU_Percent": 65.2349,
+    "Memory_Bytes": 1000024137,
+    "Request_Count": 938,
+    "Latency_ms": 342.42
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:52 WIB",
+  "metrics": {
+    "CPU_Percent": 94.8933,
+    "Memory_Bytes": 1000030098,
+    "Request_Count": 550,
+    "Latency_ms": 499.435
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:53 WIB",
+  "metrics": {
+    "CPU_Percent": 35.7996,
+    "Memory_Bytes": 1000012856,
+    "Request_Count": 828,
+    "Latency_ms": 186.586
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:54 WIB",
+  "metrics": {
+    "CPU_Percent": 84.8907,
+    "Memory_Bytes": 1000031389,
+    "Request_Count": 1333,
+    "Latency_ms": 446.48
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:55 WIB",
+  "metrics": {
+    "CPU_Percent": 44.1682,
+    "Memory_Bytes": 1000028783,
+    "Request_Count": 1483,
+    "Latency_ms": 230.89
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:56 WIB",
+  "metrics": {
+    "CPU_Percent": 36.285,
+    "Memory_Bytes": 1000029672,
+    "Request_Count": 1108,
+    "Latency_ms": 189.156
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:57 WIB",
+  "metrics": {
+    "CPU_Percent": 22.6201,
+    "Memory_Bytes": 1000030136,
+    "Request_Count": 1125,
+    "Latency_ms": 116.813
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:58 WIB",
+  "metrics": {
+    "CPU_Percent": 33.4616,
+    "Memory_Bytes": 1000011268,
+    "Request_Count": 2419,
+    "Latency_ms": 174.208
+  }
+}
+{
+  "timestamp": "2024-12-19T03:54:59 WIB",
+  "metrics": {
+    "CPU_Percent": 86.2939,
+    "Memory_Bytes": 1000025084,
+    "Request_Count": 2426,
+    "Latency_ms": 453.909
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:00 WIB",
+  "metrics": {
+    "CPU_Percent": 11.7961,
+    "Memory_Bytes": 1000014065,
+    "Request_Count": 593,
+    "Latency_ms": 59.5087
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:01 WIB",
+  "metrics": {
+    "CPU_Percent": 75.2701,
+    "Memory_Bytes": 1000005673,
+    "Request_Count": 1034,
+    "Latency_ms": 395.548
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:02 WIB",
+  "metrics": {
+    "CPU_Percent": 10.7354,
+    "Memory_Bytes": 1000005436,
+    "Request_Count": 1390,
+    "Latency_ms": 53.8935
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:03 WIB",
+  "metrics": {
+    "CPU_Percent": 86.3419,
+    "Memory_Bytes": 1000006676,
+    "Request_Count": 2148,
+    "Latency_ms": 454.163
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:04 WIB",
+  "metrics": {
+    "CPU_Percent": 36.4821,
+    "Memory_Bytes": 1000027899,
+    "Request_Count": 2463,
+    "Latency_ms": 190.199
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:05 WIB",
+  "metrics": {
+    "CPU_Percent": 17.5247,
+    "Memory_Bytes": 1000009110,
+    "Request_Count": 2120,
+    "Latency_ms": 89.8365
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:06 WIB",
+  "metrics": {
+    "CPU_Percent": 21.7159,
+    "Memory_Bytes": 1000023495,
+    "Request_Count": 1673,
+    "Latency_ms": 112.025
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:07 WIB",
+  "metrics": {
+    "CPU_Percent": 69.1859,
+    "Memory_Bytes": 1000031709,
+    "Request_Count": 1372,
+    "Latency_ms": 363.337
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:08 WIB",
+  "metrics": {
+    "CPU_Percent": 55.4644,
+    "Memory_Bytes": 1000027007,
+    "Request_Count": 2192,
+    "Latency_ms": 290.694
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:09 WIB",
+  "metrics": {
+    "CPU_Percent": 26.0247,
+    "Memory_Bytes": 1000014934,
+    "Request_Count": 1867,
+    "Latency_ms": 134.836
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:10 WIB",
+  "metrics": {
+    "CPU_Percent": 81.2694,
+    "Memory_Bytes": 1000019583,
+    "Request_Count": 569,
+    "Latency_ms": 427.309
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:11 WIB",
+  "metrics": {
+    "CPU_Percent": 64.3501,
+    "Memory_Bytes": 1000030470,
+    "Request_Count": 1963,
+    "Latency_ms": 337.736
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:12 WIB",
+  "metrics": {
+    "CPU_Percent": 62.3823,
+    "Memory_Bytes": 1000026729,
+    "Request_Count": 889,
+    "Latency_ms": 327.318
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:13 WIB",
+  "metrics": {
+    "CPU_Percent": 41.4287,
+    "Memory_Bytes": 1000013615,
+    "Request_Count": 1064,
+    "Latency_ms": 216.387
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:14 WIB",
+  "metrics": {
+    "CPU_Percent": 84.9332,
+    "Memory_Bytes": 1000010285,
+    "Request_Count": 1046,
+    "Latency_ms": 446.705
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:15 WIB",
+  "metrics": {
+    "CPU_Percent": 25.4951,
+    "Memory_Bytes": 1000020326,
+    "Request_Count": 724,
+    "Latency_ms": 132.033
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:16 WIB",
+  "metrics": {
+    "CPU_Percent": 42.6274,
+    "Memory_Bytes": 1000003912,
+    "Request_Count": 2297,
+    "Latency_ms": 222.733
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:17 WIB",
+  "metrics": {
+    "CPU_Percent": 79.5204,
+    "Memory_Bytes": 1000007030,
+    "Request_Count": 1143,
+    "Latency_ms": 418.049
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:18 WIB",
+  "metrics": {
+    "CPU_Percent": 76.4628,
+    "Memory_Bytes": 1000017302,
+    "Request_Count": 1576,
+    "Latency_ms": 401.862
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:19 WIB",
+  "metrics": {
+    "CPU_Percent": 11.5965,
+    "Memory_Bytes": 1000017330,
+    "Request_Count": 2455,
+    "Latency_ms": 58.452
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:20 WIB",
+  "metrics": {
+    "CPU_Percent": 10.91,
+    "Memory_Bytes": 1000030408,
+    "Request_Count": 2392,
+    "Latency_ms": 54.8178
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:21 WIB",
+  "metrics": {
+    "CPU_Percent": 47.5373,
+    "Memory_Bytes": 1000027473,
+    "Request_Count": 914,
+    "Latency_ms": 248.727
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:22 WIB",
+  "metrics": {
+    "CPU_Percent": 34.4257,
+    "Memory_Bytes": 1000007870,
+    "Request_Count": 1422,
+    "Latency_ms": 179.312
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:23 WIB",
+  "metrics": {
+    "CPU_Percent": 65.187,
+    "Memory_Bytes": 1000004196,
+    "Request_Count": 1337,
+    "Latency_ms": 342.166
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:24 WIB",
+  "metrics": {
+    "CPU_Percent": 22.7956,
+    "Memory_Bytes": 1000018825,
+    "Request_Count": 1719,
+    "Latency_ms": 117.742
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:25 WIB",
+  "metrics": {
+    "CPU_Percent": 25.2693,
+    "Memory_Bytes": 1000009315,
+    "Request_Count": 1623,
+    "Latency_ms": 130.837
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:26 WIB",
+  "metrics": {
+    "CPU_Percent": 78.8506,
+    "Memory_Bytes": 1000029612,
+    "Request_Count": 2362,
+    "Latency_ms": 414.503
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:27 WIB",
+  "metrics": {
+    "CPU_Percent": 57.1375,
+    "Memory_Bytes": 1000028352,
+    "Request_Count": 2208,
+    "Latency_ms": 299.551
+  }
+}
+{
+  "timestamp": "2024-12-19T03:55:28 WIB",
+  "metrics": {
+    "CPU_Percent": 25.7447,
+    "Memory_Bytes": 1000012417,
+    "Request_Count": 1036,
+    "Latency_ms": 133.354
+  }
+}
